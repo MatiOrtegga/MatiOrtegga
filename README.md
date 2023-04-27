@@ -1,16 +1,12 @@
-### Hi there 👋
+### Console.WriteLine("Hola mundo!👋");
 
-<!--
-**MatiOrtegga/MatiOrtegga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola soy Matías Ortega y soy Desarrollador Full Stack 🧑‍💻. Tengo 18 años y desde los 16 que estudio de forma autodidacta los siguientes lenguajes: 
++ Html5
++ Css3
++ JavaScript
++ React
++ NextJs
++ C#
++ Sql Server
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hace poco empece a subir mis primeros proyectos a GitHub para luego juntarlos todos y crear un portfolio para empezar a buscar empleo como desarrollador.
